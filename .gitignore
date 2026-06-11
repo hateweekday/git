@@ -11,3 +11,11 @@ Thumbs.db
 # Environment
 .env
 .env.local
+
+# Build artifacts
+*.exe
+*.obj
+*.o
+
+# Visual Studio
+.vs/
